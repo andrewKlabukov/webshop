@@ -1,0 +1,15 @@
+.card-footer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.basket-footer {
+    margin: 1rem;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 32px;
+    margin-bottom: 24px;
+}
