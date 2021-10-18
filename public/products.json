@@ -16,5 +16,23 @@
         "name": "Item Three",
         "price": 333.33,
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!"
+    },
+    {
+        "id": 4,
+        "name": "Item Four",
+        "price": 444.44,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!"
+    },
+    {
+        "id": 5,
+        "name": "Item Five",
+        "price": 555.55,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!"
+    },
+    {
+        "id": 6,
+        "name": "Item Six",
+        "price": 666.66,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!"
     }
 ]

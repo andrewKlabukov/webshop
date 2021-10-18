@@ -8,7 +8,7 @@ export default function Showcase() {
     useEffect(()=> {
         fetch('products.json')
         //fetch('http://localhost:4040/products')
-            .then(res => res.json())
+            .then(res => res.json()) // res - response содержится сообщения об ошибках
             .then(arr => setShowcase(arr))
             .catch(err => setShowcase([]))
     }, [])
